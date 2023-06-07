@@ -18,7 +18,7 @@ To run this game, make sure you have Python 3 installed on your system. You can 
 
 ## Customization
 
-If you wish to modify the game or improve the AI's difficulty, you can make changes to the source code. The `mian.py` file contains the game logic and AI implementation.
+If you wish to modify the game or improve the AI's difficulty, you can make changes to the source code. The `main.py` file contains the game logic and AI implementation.
 * To adjust the AI's difficulty, you can modify the `minimax.py` function in the code. For example, you can change the depth of the recursion or add additional evaluation heuristics.
 * Feel free to explore and experiment with the code to enhance the game or implement additional features.
 
